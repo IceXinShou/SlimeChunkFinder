@@ -1,0 +1,11 @@
+name: SlimeChunkFinder
+version: 1.0
+main: xs.slimechunkfinder.Main
+api-version: 1.17
+prefix: SlimeChunkFinder
+depend: [ PlaceholderAPI ]
+authors: [ IceXinShou ]
+description: Just A Plugin For SlimeChunkFinder
+website: www.cloudtown.tw
+commands:
+  slimechunk:
