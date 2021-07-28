@@ -1,5 +1,5 @@
 # SlimeChunkFinder
 
-This is a Plugin with Minecraft.
+This is a Plugin for Minecraft.
 
 Hook with PlaceholderAPI
