@@ -1,3 +1,3 @@
 # SlimeChunkFinder
 
-Hook with PlaceHodlerAPI
+Hook with PlaceHolderAPI
