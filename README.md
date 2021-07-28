@@ -2,4 +2,4 @@
 
 This is a Plugin for Minecraft.
 
-Hook with PlaceholderAPI
+Hook with PlaceholderAPI.
